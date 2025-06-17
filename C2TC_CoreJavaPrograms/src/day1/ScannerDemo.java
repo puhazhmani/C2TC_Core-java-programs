@@ -19,6 +19,7 @@ public class ScannerDemo {
 	System.out.println("salary:"+salary);
 	jk.close();
 	
+	
 	}
 
 }
