@@ -4,8 +4,9 @@ public class StudentDetails {
 
 	public static void main(String[] args) {
 		StudentDetails sd=new StudentDetails();
-		test1 obj= new test1(90,"kk");
-
+	int sid=9;
+	String name="kk";
+	System.out.println(sid+name);
 	}
 
 }

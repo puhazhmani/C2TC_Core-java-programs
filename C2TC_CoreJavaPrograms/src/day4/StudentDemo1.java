@@ -8,7 +8,7 @@ st.setId(5);
 st.setName("str");
 Myclss st1=Myclss.getobj();
 System.out.println(st1);
-System.out.println(st);
+System.out.println(st);    
 	}
 
 }
