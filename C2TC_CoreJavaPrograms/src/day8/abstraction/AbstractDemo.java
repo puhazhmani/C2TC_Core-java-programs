@@ -20,12 +20,6 @@ public class AbstractDemo {
 		
 		shape.calArea(); 
 		shape.show();
-		
-		
-		
-		
-		
-
 	}
 
 }
